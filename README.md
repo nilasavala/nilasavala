@@ -1,16 +1,16 @@
-## Hi there 👋
+# Nilasavala
 
-<!--
-**nilasavala/nilasavala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Experimenting
+My skills (Sorted in the order I like)  
+[![My Skills](https://skillicons.dev/icons?i=rust,c,go,cpp,perl,py&perline=3)](https://skillicons.dev)
+ 
+Things I've already built or (Planning)
+<div style="display: flex; align-items: center; gap: 8px;">
+    <img src="https://skillicons.dev/icons?i=rust" alt="Icon" style="width: 24px; height: 24px; object-fit: contain;">
+    <span>Password Manager, Cached DAG, (MFRC522 Ardunio driver for SPI & I2C)</span>
+</div>
+<br>
+<div style="display: flex; align-items: center; gap: 8px;">
+    <img src="https://skillicons.dev/icons?i=c" alt="Icon" style="width: 24px; height: 24px; object-fit: contain;">
+    <span>Chain Reaction Game Clone, MFRC522 Ardunio driver for SPI</span>
+</div>
